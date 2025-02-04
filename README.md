@@ -220,3 +220,6 @@ re: fclean all
 ```
 
 Con todo esto ya prodriamos ejeturar nuestro make para despues llamar al programa ./fractol.
+
+# COMENZAMOS EL PROYECTO
+# Paso 1: Main
